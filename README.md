@@ -69,11 +69,13 @@
 
 ## 分類
 
-Lv0 Unity、C#  熟不熟
+Lv0 有溝通能力, 可打雜
 
-Lv1 Unity、C#進階用法
+Lv1 Unity、C# 有些了解
 
-Lv2 最佳化、設計模式
+Lv2 Unity、C# 進階應用
+
+Lv3 最佳化、設計模式
 
 ## Others
 
